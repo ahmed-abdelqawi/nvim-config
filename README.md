@@ -1,6 +1,6 @@
 # Neovim Config
 
-![pic](https://drive.google.com/file/d/16D2pWDcIDJ__MfELK6YptkimxikdmXSe/view?usp=sharing)
+[logo](./logo.png)
 
 ---
 
